@@ -1,0 +1,5 @@
+*.elf
+*.entry
+*.raw
+*.o
+.DS_Store
